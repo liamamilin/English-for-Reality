@@ -2428,5 +2428,115 @@
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 1 — Objects Around Me</span>"
     ]
+  },
+  {
+    "objectID": "chapter30.html",
+    "href": "chapter30.html",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "",
+    "text": "Language as a Modeling and Execution System",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#the-core-shift",
+    "href": "chapter30.html#the-core-shift",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "The Core Shift",
+    "text": "The Core Shift\nLanguage is not a system of translation.  \nIt is a system for encoding intention.\nMost learners follow this path:\nChinese → Word Mapping → English Sentence\nThis leads to:\n\nunnatural expressions\nhesitation\nforgetting grammar\n\n\n\nThe correct path\nReality → Intention → Language",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#english-thinking-pipeline",
+    "href": "chapter30.html#english-thinking-pipeline",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "English Thinking Pipeline",
+    "text": "English Thinking Pipeline\n1. Identify the referable unit  \n2. Describe its state or action  \n3. Locate it in time and space  \n4. Relate it to other units  \n5. Evaluate its quality or impact  \n6. Decide on responsibility or action",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#thought-grammar-mapping",
+    "href": "chapter30.html#thought-grammar-mapping",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "Thought → Grammar Mapping",
+    "text": "Thought → Grammar Mapping\nEach step maps directly to a grammatical system.\n\n\nIdentify the Referable Unit\n👉 Noun System\nExpression goal: What am I talking about?  \nGrammar tools: noun / noun phrase / article\n\n\nExamples\n\na desk\nthe system\nsome objects\n\n\n\n\nEssence\nNouns = nodes in the world model\n\n\n\n\nDescribe Its State or Action\n👉 Verb & Adjective System\nExpression goal: What is it like / What is it doing?  \nGrammar tools: be + adjective / verbs\n\n\nState\n\nThe desk is messy\nThe door is closed\n\n\n\nAction\n\nThe objects are moving\nHe writes code\n\n\n\n\nEssence\nVerbs/Adjectives = assign state or behavior to nodes\n\n\n\n\nLocate It in Time and Space\n👉 Tense & Prepositions\nExpression goal: When and where does it exist?  \nGrammar tools: tense + prepositional phrases\n\n\nTime\n\nis / was / has been / will be\n\n\n\nSpace\n\non the desk\nunder the table\nnear the window\n\n\n\n\nEssence\nTense = time coordinate  \nPreposition = space coordinate\n\n\n\n\nRelate It to Other Units\n👉 Clauses & Conjunctions\nExpression goal: How is it connected to other things?  \nGrammar tools: and / because / which / that / V-ing\n\n\nTypes\n\nA and B\nbecause / so\nobjects that are scattered\nforming a network\n\n\n\n\nEssence\nRelations = edges between nodes\n\n\n\n\nEvaluate Its Quality or Impact\n👉 Adjectives & Adverbs\nExpression goal: Is it good or bad? Strong or weak?  \nGrammar tools: adjectives / adverbs / degree words\n\n\nExamples\n\nvery efficient\na bit messy\ntoo bright\nbetter / worse\n\n\n\n\nEssence\nEvaluation = assigning weight or value\n\n\n\n\nDecide on Responsibility or Action\n👉 Modal Verbs\nExpression goal: What should be done?  \nGrammar tools: must / should / could / need to\n\n\nExamples\n\nWe should fix this\nThis must be improved\nIt could be optimized\n\n\n\n\nEssence\nModals = control signals in the system",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#unified-mapping",
+    "href": "chapter30.html#unified-mapping",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "Unified Mapping",
+    "text": "Unified Mapping\nIdentify → Noun (node)\nDescribe → Verb / Adjective (state/action)\nLocate → Tense + Preposition (time/space)\nRelate → Clause / Conjunction (edges)\nEvaluate → Adjective / Adverb (weight)\nControl → Modal verbs (decision)",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#from-translation-to-intention",
+    "href": "chapter30.html#from-translation-to-intention",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "From Translation to Intention",
+    "text": "From Translation to Intention\n\n\nTranslation Mode\nChinese sentence → word mapping → English\nExample:\n饮用水 → drinkable water ❌\n\n\n\nIntention Mode\nSituation → Action → What matters → Expression\n\n\n\nExample\n\nInput\n\n我需要买点饮用水\n\n\n\n\nStep 1｜Situation\nI don’t have enough water\n\n\n\nStep 2｜Action\nI need to get some water\n\n\n\nStep 3｜Filter Information\n✔ water  \n✔ tomorrow  \n❌ “drinkable” (unnecessary)\n\n\n\nStep 4｜Output\n\nI need to buy some water tomorrow\nI’ll get some water tomorrow",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#information-filtering",
+    "href": "chapter30.html#information-filtering",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "Information Filtering",
+    "text": "Information Filtering\n\n\nPrinciple\nSay what matters  \nNot everything you can say\n\n\n\nExample\n\n❌ Overloaded\nI need to go to the supermarket to buy some drinking water for daily use tomorrow\n\n\n\n✅ Natural\nI need to buy some water tomorrow",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#full-system-example",
+    "href": "chapter30.html#full-system-example",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "Full System Example",
+    "text": "Full System Example\n\n\nThought Layer\nObject: desk  \nState: not organized  \nRelation: objects scattered  \nEffect: feels crowded  \nEvaluation: usable  \nDecision: no need to fix\n\n\n\nLanguage Layer\nThe desk is not perfectly organized,  \nwith objects scattered around,  \nmaking it feel crowded,  \nbut everything is within reach,  \nso I don’t need to fix it.",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#key-principles",
+    "href": "chapter30.html#key-principles",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "Key Principles",
+    "text": "Key Principles\n\n\nPrinciple 1\nDon’t translate words.  \nExpress situations.\n\n\n\nPrinciple 2\nClarity comes from selection,  \nnot from adding more words.\n\n\n\nPrinciple 3\nGrammar is not rules.  \nIt is the encoding layer of thought.",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#practice-template",
+    "href": "chapter30.html#practice-template",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "Practice Template",
+    "text": "Practice Template\nSituation:  \nAction:  \nTime / Space:  \nRelation:  \nEvaluation:  \nDecision:\n\n\nExample\nSituation: I’m running out of water  \nAction: buy  \nTime: tomorrow  \n\nOutput:\nI need to buy some water tomorrow.",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
+  },
+  {
+    "objectID": "chapter30.html#final-insight",
+    "href": "chapter30.html#final-insight",
+    "title": "Chapter 30 From Translation to Intention",
+    "section": "Final Insight",
+    "text": "Final Insight\nWhen you stop translating words  \nand start modeling reality  \n\nEnglish becomes not a language  \nbut an interface for thinking",
+    "crumbs": [
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Chapter 30 From Translation to Intention</span>"
+    ]
   }
 ]
